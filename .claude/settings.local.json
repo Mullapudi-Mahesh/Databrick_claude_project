@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__atlassian__createJiraIssue",
+      "mcp__atlassian__getJiraIssue",
+      "Bash(databricks workspace *)",
+      "mcp__atlassian__addCommentToJiraIssue",
+      "Bash(gh auth *)",
+      "Bash(where gh *)",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Users/MullapudiMaheshSai/AppData/Local/Programs/**)",
+      "Read(//c/ProgramData/chocolatey/bin//**)",
+      "Bash(cmd.exe *)",
+      "Bash(powershell.exe *)"
+    ]
+  }
+}
